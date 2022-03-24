@@ -67,8 +67,8 @@ html {
 }
 
 .team-photo {
-  width:100px;
-  height:100px;
+  width:150px;
+  height:150px;
   display:block;
   border-radius:50%;
   border: 1px solid #6c757d;
@@ -77,6 +77,11 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.no-wrap{
+  flex-shrink: 0;
+}
+
 
 .team-photo-lg {
   width:200px;
