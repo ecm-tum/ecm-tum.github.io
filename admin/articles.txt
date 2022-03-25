@@ -13,6 +13,13 @@ Nature Sustainability
 5, 176-178
 2022
 
+NO DOI
+An investigation of chemo-mechanical phenomena and Li metal penetration in all-solid-state lithium metal batteries using in-situ optical curvature measurements
+J.H. Cho, K.J. Kim, S. Chakravarthy, X. Xiao, J.L.M. Rupp, B.W. Sheldon 
+Advanced Energy Materials
+in press 
+2022
+
 10.1039/D2TA90015G
 Introduction to the special issue in honour of Prof. John Kilner’s 75th birthday 
 S.J. Skinner, V. Birss, J.L.M. Rupp, R.A. De Souza
