@@ -415,13 +415,13 @@ Physical Chemistry Chemical Physics
 18, 17, 12278-12288 
 2016
 
-10.1021/acsnano.5b02752
-Uncovering Two Competing Switching Mechanisms for Epitaxial and Ultra-Thin Strontium Titanate-Based Resistive Switching Bits
-M. Kubicek, R. Schmitt, F. Messerschmitt, J.L.M. Rupp
-ACS Nano
-9, 11, 10737 
+10.1038/nmat4278
+The Effect of Mechanical Twisting on Oxygen Ionic Transport in Solid State Energy Conversion Membranes 
+Y. Shi, A.H. Bork, S. Schweiger, J.L.M. Rupp
+Nature Materials
+14, 721 
 2015
-Featured in the <a href="http://www.electrochem.mat.ethz.ch/box_feeder/Memristor_SNF_En" target="_blank">Swiss National Science Foundation press release</a>, <a href="http://business24.ch/2015/10/19/neues-elektronisches-bauteil-koennte-nachfolger-von-flash-speichern-werden/" target="_blank">Business24.ch</a>, <a href="http://spectrum.ieee.org/nanoclast/semiconductors/materials/memristor-capable-of-three-stable-resistive-states-challenges-flash-memory" target="_blank">IEEE Spectrum</a>, and <a href="http://www.newelectronics.co.uk/electronics-news/swiss-researchers-have-created-a-memristor-with-three-stable-resistive-states/108563/" target="_blank">New Electronics</a>.
+<a href="http://www.nature.com/nmat/journal/v14/n7/covers/index.html target="_blank">Cover feature</a> of Natural Materials, July 2015. Featured on <a href="https://www.ethz.ch/en/news-and-events/eth-news/news/2015/06/buckle-up-for-fast-ionic-conduction.html target="_blank">ETH News</a>
 
 10.1039/C5TA03239C
 A Shortcut to Garnet-type Fast Li-Ion Conductors for All Solid State Batteries 
@@ -439,13 +439,13 @@ Advanced Functional Materials
 2015 
 Selected as VIP paper by Advanced Functional Materials (&lt5% of printed papers).
 
-10.1038/nmat4278
-The Effect of Mechanical Twisting on Oxygen Ionic Transport in Solid State Energy Conversion Membranes 
-Y. Shi, A.H. Bork, S. Schweiger, J.L.M. Rupp
-Nature Materials
-14, 721 
+10.1021/acsnano.5b02752
+Uncovering Two Competing Switching Mechanisms for Epitaxial and Ultra-Thin Strontium Titanate-Based Resistive Switching Bits
+M. Kubicek, R. Schmitt, F. Messerschmitt, J.L.M. Rupp
+ACS Nano
+9, 11, 10737 
 2015
-<a href="http://www.nature.com/nmat/journal/v14/n7/covers/index.html target="_blank">Cover feature</a> of Natural Materials, July 2015. Featured on <a href="https://www.ethz.ch/en/news-and-events/eth-news/news/2015/06/buckle-up-for-fast-ionic-conduction.html target="_blank">ETH News</a>
+Featured in the <a href="http://www.electrochem.mat.ethz.ch/box_feeder/Memristor_SNF_En" target="_blank">Swiss National Science Foundation press release</a>, <a href="http://business24.ch/2015/10/19/neues-elektronisches-bauteil-koennte-nachfolger-von-flash-speichern-werden/" target="_blank">Business24.ch</a>, <a href="http://spectrum.ieee.org/nanoclast/semiconductors/materials/memristor-capable-of-three-stable-resistive-states-challenges-flash-memory" target="_blank">IEEE Spectrum</a>, and <a href="http://www.newelectronics.co.uk/electronics-news/swiss-researchers-have-created-a-memristor-with-three-stable-resistive-states/108563/" target="_blank">New Electronics</a>.
 
 10.1039/C5TA02519B
 Perovskite La0.6Sr0.4Cr1-xCoxO3-δ Solid Solutions for Solar-Thermochemical Fuel Production: Strategies to Lower the Operation Temperature
