@@ -13,11 +13,11 @@ Nature Sustainability
 5, 176-178
 2022
 
-NO DOI
+10.1039/D2EE00279E
 A sinter-free future for solid-state battery designs
 Z.D. Hood, Y. Zhu, L.J. Miara, W.S. Chang, P. Simons, J.L.M. Rupp
 Energy & Environmental Science
-in press
+15, 2927-2936
 2022
 
 10.1002/adma.202109075
