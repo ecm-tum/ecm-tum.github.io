@@ -49,6 +49,13 @@ Journal of Materials Chemistry A
 10, 2149
 2022
 
+10.1016/j.mattod.2022.06.007
+Customizable solid-state batteries toward shape-conformal and structural power supplies
+L. Wei, S. Liu, M. Balaish, Z. Li, X. Zhou, J.L.M. Rupp, X. Guo
+Materials Today
+in press
+2022
+
 10.1038/s41560-020-00759-5
 Processing thin but robust electrolytes for solid-state batteries
 M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
