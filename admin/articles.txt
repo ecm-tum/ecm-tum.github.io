@@ -35,6 +35,13 @@ Advanced Energy Materials
 2200369
 2022
 
+10.1021/acsami.2c07176
+Thermodynamics as a driving factor of LiCoO2 grain growth on nanocrystalline Ta-LLZO thin films for all-solid-state batteries
+A. Morozov, H. Paik, A. Boev, D. Aksyonov, S. Lipovskikh, K. Stevenson, J.L.M. Rupp, A. Abakumov
+ACS Applied Materials & Interfaces
+14, 35, 39907–39916
+2022
+
 10.1021/jacs.1c13477
 Ionic Conductivity of Nanocrystalline and Amorphous Li10GeP2S12: The Detrimental Impact of Local Disorder on Ion Transport
 L. Schweiger, K. Hogrefe, B. Gadermaier, J.L.M. Rupp, H.M.R. Wilkening
