@@ -1,8 +1,22 @@
+--
+Tuning Reduction Conditions to Understand and Control Ni Exsolution from Sr0.8La0.1Ca0.1Ti0.94Ni0.06O3-δ
+W. O’Leary, L. Giordano, J.L.M. Rupp
+Journal of Materials Chemistry A
+in press
+2023
+
+10.1002/anie.202304581
+Time–Temperature–Transformation (TTT) Diagram of Battery-Grade Li-Garnet Electrolytes for Low-Temperature Sustainable Synthesis
+Yuntong Zhu, Michael Chon, Carl V. Thompson, Jennifer L. M. Rupp
+Angewandte Chemie
+in press
+2023
+
 10.1021/jacs.2c12011
 Influence of Sr-Site Deficiency, Ca/Ba/La Doping on the Exsolution of Ni from SrTiO3
 W. O'Leary, L. Giordano, J. Park, S.S. Nonnenmann, Y. Shao-Horn, J.L.M. Rupp
 Journal of the American Chemical Society
-in press
+45, 25, 13768–13779
 2023
 
 10.1016/j.joule.2022.11.009
