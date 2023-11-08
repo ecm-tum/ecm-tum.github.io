@@ -2,14 +2,14 @@
 Tuning Reduction Conditions to Understand and Control Ni Exsolution from Sr0.8La0.1Ca0.1Ti0.94Ni0.06O3-δ
 W. O’Leary, L. Giordano, J.L.M. Rupp
 Journal of Materials Chemistry A
-in press
+11, 21429-21442
 2023
 
 10.1002/anie.202304581
 Time–Temperature–Transformation (TTT) Diagram of Battery-Grade Li-Garnet Electrolytes for Low-Temperature Sustainable Synthesis
 Y. Zhu, M. Chon, C.V. Thompson, J.L.M. Rupp
 Angewandte Chemie
-in press
+62, e2023045
 2023
 
 10.1021/jacs.2c12011
