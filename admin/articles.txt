@@ -1,15 +1,15 @@
-10.1016/j.matt.2023.12.004
-Highly disordered amorphous Li-battery electrolytes
-Y. Zhu, Z.D. Hood, H. Paik, P.B. Groszewicz, S.P. Emge, F.N. Sayed, C. Sun, M. Balaish, D. Ehre, L.J. Miara, A.I. Frenkel, I. Lubomirsky, C.P. Grey, J.L.M. Rupp
-Matter
-7, 1–23
-2024
-
 NO DOI
 Uncovering the Network Modifier for Highly Disordered Amorphous Li-Garnet Glass-Ceramics
 Y. Zhu, E.R. Kennedy, B. Yasar, H. Paik, Y. Zhang, Z.D. Hood, M. Scott, J.L.M. Rupp
 Advanced Materials
 In press
+2024
+
+10.1016/j.matt.2023.12.004
+Highly disordered amorphous Li-battery electrolytes
+Y. Zhu, Z.D. Hood, H. Paik, P.B. Groszewicz, S.P. Emge, F.N. Sayed, C. Sun, M. Balaish, D. Ehre, L.J. Miara, A.I. Frenkel, I. Lubomirsky, C.P. Grey, J.L.M. Rupp
+Matter
+7, 1–23
 2024
 
 10.1039/d3ta07362a
