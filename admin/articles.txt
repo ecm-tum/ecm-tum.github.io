@@ -5,18 +5,18 @@ Advanced Materials
 202302438
 2024
 
-NO DOI
-Surface Reconditioning of Lithium Metal Electrodes by Laser Treatment for the Industrial Production of Enhanced Lithium Metal Batteries
-J. Kriegler, H. Ballmes, S. Dib, A.G. Demir, L. Hille, Y. Liang, L. Wach, S. Weimann, J. Keilhofer, K.J. Kim, J.L.M. Rupp, M.F. Zaeh
-Advanced Functional Materials
-in press
-2024
-
 10.1016/j.matt.2023.12.004
 Highly disordered amorphous Li-battery electrolytes
 Y. Zhu, Z.D. Hood, H. Paik, P.B. Groszewicz, S.P. Emge, F.N. Sayed, C. Sun, M. Balaish, D. Ehre, L.J. Miara, A.I. Frenkel, I. Lubomirsky, C.P. Grey, J.L.M. Rupp
 Matter
 7, 1–23
+2024
+
+NO DOI
+Surface Reconditioning of Lithium Metal Electrodes by Laser Treatment for the Industrial Production of Enhanced Lithium Metal Batteries
+J. Kriegler, H. Ballmes, S. Dib, A.G. Demir, L. Hille, Y. Liang, L. Wach, S. Weimann, J. Keilhofer, K.J. Kim, J.L.M. Rupp, M.F. Zaeh
+Advanced Functional Materials
+in press
 2024
 
 10.1039/d3ta07362a
