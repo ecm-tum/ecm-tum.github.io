@@ -1,3 +1,10 @@
+NO DOI
+Ionic-conduction based Polycrystalline Oxide Gamma Ray Detection - Radiation-ionic Effects
+T. Defferriere, A.S.H. Elwaki, J. Li, J.L.M. Rupp, H. Tuller
+Advanced Materials
+adma.202309253R2
+2024
+
 10.1002/adma.202302438
 Uncovering the Network Modifier for Highly Disordered Amorphous Li-Garnet Glass-Ceramics
 Y. Zhu, E.R. Kennedy, B. Yasar, H. Paik, Y. Zhang, Z.D. Hood, M. Scott, J.L.M. Rupp
