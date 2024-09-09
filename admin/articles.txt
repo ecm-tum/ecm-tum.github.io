@@ -1,3 +1,10 @@
+10.1021/jacs.4c07812
+Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors
+Willis O’Leary, Manuel Grumet, Waldemar Kaiser, Tomáš Bučko, Jennifer L. M. Rupp, David A. Egger
+Journal of the American Chemical Society
+in press
+2024
+
 10.1002/adma.202309253
 Ionic-conduction based Polycrystalline Oxide Gamma Ray Detection - Radiation-ionic Effects
 T. Defferriere, A.S.H. Elwaki, J. Li, J.L.M. Rupp, H. Tuller
