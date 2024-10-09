@@ -1,8 +1,15 @@
+in press
+A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
+Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
+Chemical Society Review
+in press
+2024
+
 10.1021/jacs.4c07812
 Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors
-Willis O’Leary, Manuel Grumet, Waldemar Kaiser, Tomáš Bučko, Jennifer L. M. Rupp, David A. Egger
+Willis O’Leary, Manuel Grumet, Waldemar Kaiser, Tomáš Bučko, Jennifer L. M. Rupp*, David A. Egger*
 Journal of the American Chemical Society
-in press
+Volume 146, Issue 39, Pages 26863
 2024
 
 10.1002/adma.202309253
@@ -31,14 +38,14 @@ Matter
 Surface Reconditioning of Lithium Metal Electrodes by Laser Treatment for the Industrial Production of Enhanced Lithium Metal Batteries
 J. Kriegler, H. Ballmes, S. Dib, A.G. Demir, L. Hille, Y. Liang, L. Wach, S. Weinmann, J. Keilhofer, K.J. Kim, J.L.M. Rupp, M.F. Zaeh
 Advanced Functional Materials
-in press
+Volume 34, Issue 24, Pages 2313766
 2024
 
 10.1039/d3ta07362a
 Insights into Li+ Storage Mechanisms, Kinetics, and Reversibility of Defect-Engineered and Functionalized Multi-Walled Carbon Nanotubes for Enhanced Energy Storage
 L. Kong, Y. Zhu, P.J. Williams, M. Kabbani, F.R. Brushett, J.L.M. Rupp
 Journal of Materials Chemistry A
-In press
+Volume 12, Pages 4299-4311
 2024
 
 10.1002/anie.202304581
@@ -146,7 +153,7 @@ Journal of Materials Chemistry A
 Customizable solid-state batteries toward shape-conformal and structural power supplies
 L. Wei, S. Liu, M. Balaish, Z. Li, X. Zhou, J.L.M. Rupp, X. Guo
 Materials Today
-in press
+Volume 58, Pages 297-312
 2022
 
 10.1038/s41560-020-00759-5

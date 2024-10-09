@@ -104,4 +104,4 @@ with open('../pubs/articles/index.html') as articles_html:
 with open('../pubs/articles/index.html', 'w') as articles_html:
     articles_html.write(new_articles_html)
 
-
+print('Articles updated successfully')
