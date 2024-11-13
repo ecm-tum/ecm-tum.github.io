@@ -14,7 +14,7 @@ Volume 146, Issue 39, Pages 26863
 
 10.1002/adma.202309253
 Ionic-conduction based Polycrystalline Oxide Gamma Ray Detection - Radiation-ionic Effects
-T. Defferriere, A.S.H. Elwaki, J. Li, J.L.M. Rupp, H. Tuller
+T. Defferriere, A.S.H. Elwaki, J. Li, J.L.M. Rupp*, H. Tuller*
 Advanced Materials
 202309253R2
 2024
