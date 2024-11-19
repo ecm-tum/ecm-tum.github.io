@@ -1,3 +1,10 @@
+in press
+Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials
+Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, Elton Pan, Elsa Olivetti, Jennifer L.M. Rupp
+AI for Accelerated Materials Design-NeurIPS
+in press
+2024
+
 10.1039/D4CS00214H
 A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
 Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
