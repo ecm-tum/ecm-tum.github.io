@@ -5,6 +5,13 @@ Advanced Materials Interfaces
 in press
 2025
 
+10.1016/j.optlastec.2025.113118
+Process strategies for the laser-based surface treatment of garnet-type ceramics used in solid-state batteries 
+Alena Gruendl, Steffen Weinmann, Jonas Goehmann, Jan Landau, Maximilian Lechner, Lukas Mueller, Kun Joong Kim, Jennifer L.M. Rupp, Michael F. Zaeh
+Optics and Laser Technology 
+Volume 189
+2025 
+
 10.1016/j.joule.2025.101871
 Process Cost Analysis of Performance Challenges and Their Mitigations in Sodium‐Ion Battery Cathode Materials
 Mrigi Munjal, Thorben Prein, Mahmoud Ramadan, Hugh Smith, Vineeth Venugopal, Jennifer L.M. Rupp, Iwnetim I. Abate, Elsa A. Olivetti, Kevin J. Huang
