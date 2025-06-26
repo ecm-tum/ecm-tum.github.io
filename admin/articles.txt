@@ -1,8 +1,15 @@
 in press
+Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
+Rupp
+Advanced Materials Interfaces
+in press
+2025
+
+10.1016/j.joule.2025.101871
 Process Cost Analysis of Performance Challenges and Their Mitigations in Sodium‐Ion Battery Cathode Materials
 Mrigi Munjal, Thorben Prein, Mahmoud Ramadan, Hugh Smith, Vineeth Venugopal, Jennifer L.M. Rupp, Iwnetim I. Abate, Elsa A. Olivetti, Kevin J. Huang
 Joule
-in press
+Volume 9, Issue 5
 2025
 
 10.1039/D4CS00214H
