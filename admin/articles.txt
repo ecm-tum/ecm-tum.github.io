@@ -119,13 +119,6 @@ Journal of the American Chemical Society
 45, 25, 13768–13779
 2023
 
-10.1016/j.joule.2022.11.009
-Uncovered phase polymorphism steers chemo-mechanics of garnet electrolytes
-Y. Zhu, M. Balaish, J.L.M. Rupp
-Joule
-6, 2680-2682
-2022
-
 10.1038/s41563-021-01181-2
 Photo-enhanced ionic conductivity across grain boundaries in polycrystalline ceramics
 T. Defferriere, D. Klotz, J.C. Gonzalez-Rosillo, J.L.M. Rupp, H.L. Tuller
@@ -139,6 +132,13 @@ Charging sustainable batteries
 C. Bauer, S. Burkhardt, N.P. Dasgupta, L.A.W. Ellingsen, L.L. Gaines, H. Hao, R. Hischier, L. Hu, Y. Huang, J. Janek, C. Liang, H. Li, J. Li, Y. Li, Y.C. Lu, W. Luo, L.F. Nazar, E.A. Olivetti, J.F. Peters, J.L.M. Rupp, M. Weil, J.F. Whitacre, S. Xu
 Nature Sustainability
 5, 176-178
+2022
+
+10.1016/j.joule.2022.11.009
+Uncovered phase polymorphism steers chemo-mechanics of garnet electrolytes
+Y. Zhu, M. Balaish, J.L.M. Rupp
+Joule
+6, 2680-2682
 2022
 
 10.1039/D2EE00279E
