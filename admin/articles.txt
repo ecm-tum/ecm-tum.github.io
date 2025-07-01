@@ -19,13 +19,6 @@ Joule
 Volume 9, Issue 5
 2025
 
-in press
-Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
-Rupp
-Advanced Materials Interfaces
-in press
-2025
-
 10.1016/j.optlastec.2025.113118
 Process strategies for the laser-based surface treatment of garnet-type ceramics used in solid-state batteries 
 Alena Gruendl, Steffen Weinmann, Jonas Goehmann, Jan Landau, Maximilian Lechner, Lukas Mueller, Kun Joong Kim, Jennifer L.M. Rupp, Michael F. Zaeh
@@ -38,6 +31,13 @@ A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polyme
 Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
 Chemical Society Reviews
 2025, 54, 178-200
+2025
+
+in press
+Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
+Isaac D. Dyer, Hasti Vahidi, Haemin Paik, Hanna Gobena, Bisrat N. Tafese, Jeff Sakamoto, Jennifer Rupp, William J. Bowman, Sossina M. Haile
+Advanced Materials Interfaces
+in press
 2025
 
 VGsXQOTs1E
