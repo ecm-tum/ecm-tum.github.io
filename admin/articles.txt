@@ -26,18 +26,18 @@ Optics and Laser Technology
 Volume 189
 2025 
 
-10.1039/D4CS00214H
-A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
-Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
-Chemical Society Reviews
-2025, 54, 178-200
-2025
-
 in press
 Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
 Isaac D. Dyer, Hasti Vahidi, Haemin Paik, Hanna Gobena, Bisrat N. Tafese, Jeff Sakamoto, Jennifer Rupp, William J. Bowman, Sossina M. Haile
 Advanced Materials Interfaces
 in press
+2025
+
+10.1039/D4CS00214H
+A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
+Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
+Chemical Society Reviews
+2025, 54, 178-200
 2025
 
 VGsXQOTs1E
