@@ -1,69 +1,69 @@
 in press
 Magnetic Microscopy for Operando Imaging of Battery Dynamics
-Stefan Pollok, Mohamad Khoshkalam, Fardin Ghaffari-Tabrizi, Fran Kurnia, Danni Wang, Siqi Li, Dominik B. Bucher, Jennifer L. M. Rupp, Dennis V. Christensen
+S. Pollok, M. Khoshkalam, F. Ghaffari-Tabrizi, F. Kurnia, D. Wang, S. Li, D. B. Bucher, J. L. M. Rupp, D. V. Christensen
 Nature Communications
 in press
 2025
 
 in press 
 Covalent Organic Framework Bipolar Pseudocapacitive Electrodes in an All-Organic Symmetric Lithium-Ion Battery
-Apeksha Singh, Preeti Bhauriyal, Lucie Quincke, Dominic Blätte, Roman Guntermann,  Jennifer L.M. Rupp, Thomas Heine, Thomas Bein
+A. Singh, P. Bhauriyal, L. Quincke, D. Blätte, R. Guntermann, J. L.M. Rupp, T. Heine, T. Bein
 Advanced Energy Materials
 in press
 2025
 
 10.1002/aenm.202502280
 Stabilizing interfaces of all-ceramic composite cathodes for Li-garnet batteries
-Steffen Weinmann, Hana Gobena, Lucie Quincke, Jesse J. Hinricher, Samuel Merk, Hyunwon Chu, Thorben Prein, Jennifer L.M. Rupp, Kun Joong Kim
+S. Weinmann, H. Gobena, L. Quincke, J. J. Hinricher, S. Merk, H. Chu, T. Prein, J. L.M. Rupp, K. J. Kim
 Advanced Energy Materials
 in press
 2025
 
 10.1016/j.joule.2025.101871
 Process Cost Analysis of Performance Challenges and Their Mitigations in Sodium‐Ion Battery Cathode Materials
-Mrigi Munjal, Thorben Prein, Mahmoud Ramadan, Hugh Smith, Vineeth Venugopal, Jennifer L.M. Rupp, Iwnetim I. Abate, Elsa A. Olivetti, Kevin J. Huang
+M. Munjal, T. Prein, M. Ramadan, H. Smith, V. Venugopal, J. L.M. Rupp, I. I. Abate, E. A. Olivetti, K. J. Huang
 Joule
 Volume 9, Issue 5
 2025
 
 10.1016/j.optlastec.2025.113118
 Process strategies for the laser-based surface treatment of garnet-type ceramics used in solid-state batteries 
-Alena Gruendl, Steffen Weinmann, Jonas Goehmann, Jan Landau, Maximilian Lechner, Lukas Mueller, Kun Joong Kim, Jennifer L.M. Rupp, Michael F. Zaeh
+A. Gruendl, S. Weinmann, J. Goehmann, J. Landau, M. Lechner, L. Mueller, K. J. Kim, J. L.M. Rupp, M. F. Zaeh
 Optics and Laser Technology 
 Volume 189
 2025 
 
 in press
 Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
-Isaac D. Dyer, Hasti Vahidi, Haemin Paik, Hanna Gobena, Bisrat N. Tafese, Jeff Sakamoto, Jennifer Rupp, William J. Bowman, Sossina M. Haile
+I. D. Dyer, H. Vahidi, H. Paik, H. Gobena, B. N. Tafese, J. Sakamoto, J. Rupp, W. J. Bowman, S. M. Haile
 Advanced Materials Interfaces
 in press
 2025
 
 in press
 Emerging Processing Guidelines for Solid Electrolytes in the Era of Oxide-Based Solid-State Batteries
-Moran Balaish, Kunjoong Kim, Hyunwon Chu, Yuntong Zhu, Juan Carlos Gonzalez Rosillo, Lingping Kong, Haemin Paik, Steffen Weinmann, Zachary Hood, Jesse Hinricher, Lincoln Miara, Jennifer L.M. Rupp
+M. Balaish, K. Kim, H. Chu, Y. Zhu, J. C. G. Rosillo, L. Kong, H. Paik, S. Weinmann, Z. Hood, J. Hinricher, L. Miara, J. L.M. Rupp
 Chemical Society Reviews
 in press
 2025
 
 10.1039/D4CS00214H
 A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
-Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
+S. Sand, J. L.M. Rupp*, B. Yildiz*
 Chemical Society Reviews
 2025, 54, 178-200
 2025
 
 VGsXQOTs1E
 Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials
-Thorben Prein, Fuzhan Rahmanian, Kesava Prasad Arul, Jasmin El-Wafi, Menelaos Panagiotis Fotiadis, Jan Heimann, Paul Weinmann, Yifei Duan, Elton Pan, Elsa Olivetti, Jennifer L.M. Rupp
+T. Prein, F. Rahmanian, K. P. Arul, J. El-Wafi, M. P. Fotiadis, J. Heimann, P. Weinmann, Y. Duan, E. Pan, E. Olivetti, J. L.M. Rupp
 NeurIPS
 AI for Accelerated Materials Design
 2024
 
 10.1021/jacs.4c07812
 Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors
-Willis O’Leary, Manuel Grumet, Waldemar Kaiser, Tomáš Bučko, Jennifer L. M. Rupp*, David A. Egger*
+W. O’Leary, M. Grumet, W. Kaiser, T. Bučko, J. L. M. Rupp*, D. A. Egger*
 Journal of the American Chemical Society
 Volume 146, Issue 39, Pages 26863
 2024
@@ -179,7 +179,7 @@ Advanced Materials
 
 10.1002/aenm.202200369
 An investigation of chemo-mechanical phenomena and Li metal penetration in all-solid-state lithium metal batteries using in-situ optical curvature measurements
-J.H. Cho, K.J. Kim, S. Chakravarthy, X. Xiao, J.L.M. Rupp, B.W. Sheldon 
+J.H. Cho, K.J. Kim, S. Chakravarthy, X. Xiao, J.L.M. Rupp, B.W. Sheldon
 Advanced Energy Materials
 2200369
 2022
@@ -200,7 +200,7 @@ Journal of the American Chemical Society
 
 10.1039/D2TA90015G
 Introduction to the special issue in honour of Prof. John Kilner’s 75th birthday 
-S.J. Skinner, V. Birss, J.L.M. Rupp, R.A. De Souza
+S.J. Skinner, V. Birss, J.L.M. Rupp, R.A. D. Souza
 Journal of Materials Chemistry A
 10, 2149
 2022
@@ -222,7 +222,7 @@ Press: <a href="https://techxplore.com/news/2021-03-advancements-solid-state-bat
 
 10.1002/aenm.202002689
 Solid‐State Li–Metal Batteries: Challenges and Horizons of Oxide and Sulfide Solid Electrolytes and Their Interfaces
-K.J. Kim*, M. Balaish*, M. Wadaguchi, L. Kong, J.L.M Rupp
+K.J. Kim*, M. Balaish*, M. Wadaguchi, L. Kong, J. Rupp
 Advanced Energy Materials
 202002689
 2021
@@ -230,21 +230,21 @@ Advanced Energy Materials
 
 10.1002/adma.202100314
 Widening the Range of Trackable Environmental and Health Pollutants  for Li-Garnet-Based Sensors
-M. Balaish and J.L.M. Rupp
+M. B. a. J.L.M. Rupp
 Advanced Materials
 2100314
 2021
 
 10.1039/D1TA02399C
 Design of Triple and Quadruple Phase Boundaries and Chemistries for Environmental SO2 Electrochemical Sensing
-M. Balaish and J.L.M. Rupp
+M. B. a. J.L.M. Rupp
 Journal of Materials Chemistry A
 9, 14691-14699 
 2021
 
 10.1002/adfm.202005640
 Impact of Oxygen Non-stoichiometry on Near-Ambient Temperature Ionic Mobility in Polaronic Mixed-Ionic-Electronic Conducting Thin Films
-T. Defferriere,  D. Kalaev, J.L.M Rupp, H.L. Tuller
+T. Defferriere, D. Kalaev, J. Rupp, H.L. Tuller
 Advanced Functional Materials
 2005640
 2021
@@ -287,7 +287,7 @@ Nature Review Materials
 
 10.1039/d0ee02062a
 All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
-K.J. Kim and J.L.M. Rupp
+K.J. K. a. J.L.M. Rupp
 Energy & Environmental Science
 13, 4930-4945
 2020
@@ -309,7 +309,7 @@ Chemical Society Reviews
 
 10.1002/adma.201907465
 Lithium-Battery Anode Gains Additional Functionality for Neuromorphic Computing through Metal-Insulator Phase Separation
-J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K.J. Kim, K.M. Mullin, R. Pfenninger, M. Z. Bazant, J.L.M Rupp
+J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K.J. Kim, K.M. Mullin, R. Pfenninger, M. Z. Bazant, J. Rupp
 Advanced Materials
 1907465
 2020
@@ -324,7 +324,7 @@ Electrochemistry Communications
 
 10.1088/1361-6528/aba70f
 Roadmap on Emerging Hardware and Technology for Machine Learning
-K. Berggren, Q. Xia, K.K. Likharev, D.B. Strukov, H. Jiang, T. Mikolajick, D. Querlioz, M. Salinga, J.R. Erickson, S. Pi, F. Xiong, P. Li, C. Li, Y. Chen, S. Xiong, B.D. Hoskins, M.W. Daniels, A. Madhavan, J.A. Liddle, J.J. McClelland, Y. Yang, J.L.M. Rupp, S.S. Nonnenmann, K. Cheng, N. Gong, M.A. Lastras-Montaño, A.A. Talin, A. Salleo, B.J. Shastri, T. Ferriera de Lima, P. Prucnal, A.N. Tait, Y. Shen, H. Meng, C. Roques-Carmes, Z. Cheng, H. Bhaskaran, D. Jariwala, H. Wang, J.M. Shainline, K. Segall, J.J. Yang, K. Roy, S. Datta, A. Raychowdhury
+K. Berggren, Q. Xia, K.K. Likharev, D.B. Strukov, H. Jiang, T. Mikolajick, D. Querlioz, M. Salinga, J.R. Erickson, S. Pi, F. Xiong, P. Li, C. Li, Y. Chen, S. Xiong, B.D. Hoskins, M.W. Daniels, A. Madhavan, J.A. Liddle, J.J. McClelland, Y. Yang, J.L.M. Rupp, S.S. Nonnenmann, K. Cheng, N. Gong, M.A. Lastras-Montaño, A.A. Talin, A. Salleo, B.J. Shastri, T. F. d. Lima, P. Prucnal, A.N. Tait, Y. Shen, H. Meng, C. Roques-Carmes, Z. Cheng, H. Bhaskaran, D. Jariwala, H. Wang, J.M. Shainline, K. Segall, J.J. Yang, K. Roy, S. Datta, A. Raychowdhury
 Nanotechnology
 32, 1
 2020
@@ -359,7 +359,7 @@ ACS Applied Materials & Interfaces
 
 10.1038/s41560-019-0384-4
 A low ride on processing temperature for fast lithium conduction in garnet solid-state battery films
-R. Pfenninger, M. Struzik, I. Garbayo, E. Stilp, J.L.M. Rupp 
+R. Pfenninger, M. Struzik, I. Garbayo, E. Stilp, J.L.M. Rupp
 Nature Energy
 4, 475–4832019
 2019
@@ -374,7 +374,7 @@ Advanced Materials
 
 10.1002/aenm.201803886
 Modifying La0.6Sr0.4MnO3 Perovskites with Cr Incorporation for Fast Isothermal CO2-Splitting Kinetics in Solar-Driven Thermochemical Cycles
-A.J. Carrillo, A.H. Bork, T. Moser, E. Sediva, Z.D. Hood, J.L.M. Rupp 
+A.J. Carrillo, A.H. Bork, T. Moser, E. Sediva, Z.D. Hood, J.L.M. Rupp
 Advanced Energy Materials
 9, 28, 1803886
 2019
@@ -388,14 +388,14 @@ Nano Energy
 
 10.1039/C9TA04999A
 Building Better All-Solid-State Batteries with Li-Garnet Solid Electrolytes and Metalloid Anodes    
-S. Afyon,  K.V. Kravchyk,  S. Wang,  J. van den Broek,  C. Hänsel,  M.V. Kovalenko, J.L.M. Rupp
+S. Afyon, K.V. Kravchyk, S. Wang, J. v. d. Broek, C. Hänsel, M.V. Kovalenko, J.L.M. Rupp
 Journal of Materials Chemistry A
 7, 21299-21308
 2019
 
 10.1016/j.actamat.2019.07.022
 Thermodynamic Assessment of the Solar-to-fuel Performance of La0.6Sr0.4Mn1-yCryO3d Perovskite Solid Solution Series
-A. Bork, A. Carillo del Teso, E. Povoden, J.L.M Rupp
+A. Bork, A. C. d. Teso, E. Povoden, J. Rupp
 Acta Materialia
 178, 163-172
 2019
@@ -424,7 +424,7 @@ Advanced Functional Materials
   
 10.1002/aelm.201800282
 When Memristance Crosses the Path with Humidity Sensing - About the Importance of Protons and its Opportunities in Valence Change Memristors
-F. Messerschmitt, Maximilian Jansen, Jennifer L.M. Rupp
+F. Messerschmitt, M. Jansen, J. L.M. Rupp
 Advanced Electronic Materials
 1800282 
 2018
@@ -466,7 +466,7 @@ Advanced Materials
   
 10.1021/acsnano.7b03116
 Design of Oxygen Vacancy Configuration for Memristive Systems
-R. Schmitt, J. Spring, R. Korobko, J.L.M Rupp
+R. Schmitt, J. Spring, R. Korobko, J. Rupp
 ACS Nano
 11, 9, 8881-8891 
 2017
@@ -508,7 +508,7 @@ Journal of Physical Chemistry C
   
 10.1007/s10832-017-0079-9
 Boosting the Electrochemical Performance of Li-Garnet based All-Solid-State Li-ion Batteries
-J. Van den Broek, J.L.M. Rupp, S. Afyon
+J. V. d. Broek, J.L.M. Rupp, S. Afyon
 Journal of Electroceramics
 38, 2-4, 182-188 
 2017
@@ -529,7 +529,7 @@ Journal of Electroceramics
 
 10.1002/aenm.201600736
 Interface-Engineered All-Solid-State Li-Ion Batteries Based on Garnet-Type Fast Li+ Conductors
-J. van den Broek, S. Afyon, J.L.M. Rupp
+J. v. d. Broek, S. Afyon, J.L.M. Rupp
 Advanced Energy Materials
 1600736 
 2016 
@@ -559,7 +559,7 @@ ACS Nano
   
 10.1021/acsami.6b03909
 The role of associated defects in oxygen ion conduction and surface exchange reaction for epitaxial samaria doped ceria thin films as catalytic coatings
-N. Yang, Y. Shi, S. Schweiger, E. Strelcov, A. Belianinov, V. Foglietti, P. Orgiani, G. Balestrino, S.V. Kalinin, J.L.M. Rupp, and C. Aruta
+N. Yang, Y. Shi, S. Schweiger, E. Strelcov, A. Belianinov, V. Foglietti, P. Orgiani, G. Balestrino, S.V. Kalinin, J.L.M. Rupp, a. C. Aruta
 ACS Appl. Mater. Interfaces
 8, 23, 14613–14621 
 2016
@@ -573,7 +573,7 @@ The Journal of Physical Chemistry C
   
 10.1039/C6CP00257A
 Na+ doping induced changes in the reduction and charge transport characteristics of Al2O3-stabilized, CuO-based materials for CO2 capture
-Q. Imtiaz, P.M. Abdala, A. Kierzkowska, W. van Beek, S. Schweiger, J.L.M. Rupp, C.R. Müller
+Q. Imtiaz, P.M. Abdala, A. Kierzkowska, W. v. Beek, S. Schweiger, J.L.M. Rupp, C.R. Müller
 Physical Chemistry Chemical Physics
 18, 17, 12278-12288 
 2016
@@ -657,14 +657,14 @@ Microelectronic Engineering
   
 10.1016/j.ssi.2015.03.031
 EMRS 2014 Solid State Ionics issue Preface
-J.L.M. Rupp, R.A. De Souza, I. Lubormirsky, W. Preis, E.M. Kelder
+J.L.M. Rupp, R.A. D. Souza, I. Lubormirsky, W. Preis, E.M. Kelder
 Solid State Ionics
 273, 1 
 2015
 
 10.1002/adfm.201402286
 Memristor Kinetics and Diffusion Characteristics for Mixed Anionic-Electronic SrTiO3-δ: The Memristor-based Cottrell Analysis Connecting Material to Device Performance
-F. Messerschmitt,  M. Kubicek, S. Schweiger, J.L.M. Rupp
+F. Messerschmitt, M. Kubicek, S. Schweiger, J.L.M. Rupp
 Advanced Functional Materials
 24, 47, 7448 
 2014
@@ -728,7 +728,7 @@ J. Appl Physics
   
 10.1063/1.3663529
 Electric-Field-Induced I-V Characteristics in Electronic Conducting Perovskite Thin Films
-J.L.M. Rupp, P. Reinhard, Ryll T., D. Pergolesi, R. Tölke, E. Travsersa
+J.L.M. Rupp, P. Reinhard, R. T., D. Pergolesi, R. Tölke, E. Travsersa
 Applied Physics Letters
 100, 012101
 2012
@@ -805,7 +805,7 @@ Acta Materialia
   
 10.1016/j.jpowsour.2011.03.077
 Impact of substrate material and annealing conditions on the microstructure and chemistry of yttria-stabilized-zirconia thin films
-B. Scherrer, A. Rossi, J. Martynczuk, M.D. Rossell, A. Bieberle-Hütter, J.L.M. Rupp, R. Erni, L.J. Gauckler 
+B. Scherrer, A. Rossi, J. Martynczuk, M.D. Rossell, A. Bieberle-Hütter, J.L.M. Rupp, R. Erni, L.J. Gauckler
 J. of Power Sources
 196 (18) 7372
 2011
@@ -883,21 +883,21 @@ Advanced Functional Materials
   
 10.1016/j.jpowsour.2010.06.089
 Flame Spray Deposition of La0.6Sr0.4CoO3-δ Thin Films for micro-SOFCs: Microstructural Characterization, Electrochemical Performance and Degradation Study
-N.I. Karageorgakis, A. Heel, A. Bieberle-Huetter, J.L.M. Rupp, T. Graule,  L.J. Gauckler
+N.I. Karageorgakis, A. Heel, A. Bieberle-Huetter, J.L.M. Rupp, T. Graule, L.J. Gauckler
 Journal of Power Sources
 195 (24), 8152
 2010
   
 10.1039/C0CP00889C
 Crystallization and Electrical Conductivity of amorphous Bismuth Ruthenate thin films deposited by Spray Pyrolysis 
-T. Ryll, A. Brunner, S. Ellenbroeck, A. Bieberle-Huetter, J.L.M. Rupp and L.J. Gauckler
+T. Ryll, A. Brunner, S. Ellenbroeck, A. Bieberle-Huetter, J.L.M. R. a. L.J. Gauckler
 Physical Chemistry Chemical Physics
 12 (42), 13933
 2010
   
 10.1016/j.jeurceramsoc.2009.06.012
 Yttria-stabilized Zirconia Thin Films by Pulsed Laser Deposition: Microstructural and Compositional Control
-S. Heiroth, T. Lippert, A. Wokaun, M. Döbeli, J.L.M. Rupp, B. Scherrer, L.J. Gauckler 
+S. Heiroth, T. Lippert, A. Wokaun, M. Döbeli, J.L.M. Rupp, B. Scherrer, L.J. Gauckler
 Journal of the European Ceramic Society
 30 (2), 489
 2010
