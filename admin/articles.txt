@@ -40,6 +40,13 @@ Advanced Materials Interfaces
 in press
 2025
 
+in press
+Emerging Processing Guidelines for Solid Electrolytes in the Era of Oxide-Based Solid-State Batteries
+Moran Balaish, Kunjoong Kim, Hyunwon Chu, Yuntong Zhu, Juan Carlos Gonzalez Rosillo, Lingping Kong, Haemin Paik, Steffen Weinmann, Zachary Hood, Jesse Hinricher, Lincoln Miara, Jennifer L.M. Rupp
+Chemical Society Reviews
+in press
+2025
+
 10.1039/D4CS00214H
 A Critical Review on Li-ion Transport, Chemistry and Structure of Ceramic-Polymer Composite Electrolytes for Solid State Batteries
 Sara Sand, Jennifer L.M. Rupp*, Bilge Yildiz*
