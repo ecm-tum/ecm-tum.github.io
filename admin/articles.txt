@@ -6,6 +6,13 @@ in press
 2025
 
 in press 
+Coexistence of battery-type and pseudocapacitive intercalation mechanisms in lithium titanate electrodes
+L. Kong, P. J. Williams, F. Brushett, J. L.M. Rupp
+Advanced Energy Materials
+in press
+2025
+
+in press 
 Covalent Organic Framework Bipolar Pseudocapacitive Electrodes in an All-Organic Symmetric Lithium-Ion Battery
 A. Singh, P. Bhauriyal, L. Quincke, D. Blätte, R. Guntermann, J. L.M. Rupp, T. Heine, T. Bein
 Advanced Energy Materials
@@ -33,7 +40,7 @@ Optics and Laser Technology
 Volume 189
 2025 
 
-in press
+10.1002/admi.202500469
 Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
 I. D. Dyer, H. Vahidi, H. Paik, H. Gobena, B. N. Tafese, J. Sakamoto, J. Rupp, W. J. Bowman, S. M. Haile
 Advanced Materials Interfaces
@@ -54,20 +61,6 @@ Chemical Society Reviews
 in press
 2025
 
-VGsXQOTs1E
-Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials
-T. Prein, F. Rahmanian, K. P. Arul, J. El-Wafi, M. P. Fotiadis, J. Heimann, P. Weinmann, Y. Duan, E. Pan, E. Olivetti, J. L.M. Rupp
-NeurIPS
-AI for Accelerated Materials Design
-2024
-
-10.1021/jacs.4c07812
-Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors
-W. O’Leary, M. Grumet, W. Kaiser, T. Bučko, J. L. M. Rupp*, D. A. Egger*
-Journal of the American Chemical Society
-Volume 146, Issue 39, Pages 26863
-2024
-
 10.1002/adma.202309253
 Ionic-conduction based Polycrystalline Oxide Gamma Ray Detection - Radiation-ionic Effects
 T. Defferriere, A.S.H. Elwaki, J. Li, J.L.M. Rupp*, H. Tuller*
@@ -81,6 +74,20 @@ Uncovering the Network Modifier for Highly Disordered Amorphous Li-Garnet Glass-
 Y. Zhu, E.R. Kennedy, B. Yasar, H. Paik, Y. Zhang, Z.D. Hood, M. Scott, J.L.M. Rupp
 Advanced Materials
 202302438
+2024
+
+VGsXQOTs1E
+Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials
+T. Prein, F. Rahmanian, K. P. Arul, J. El-Wafi, M. P. Fotiadis, J. Heimann, P. Weinmann, Y. Duan, E. Pan, E. Olivetti, J. L.M. Rupp
+NeurIPS
+AI for Accelerated Materials Design
+2024
+
+10.1021/jacs.4c07812
+Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors
+W. O’Leary, M. Grumet, W. Kaiser, T. Bučko, J. L. M. Rupp*, D. A. Egger*
+Journal of the American Chemical Society
+Volume 146, Issue 39, Pages 26863
 2024
 
 10.1016/j.matt.2023.12.004
