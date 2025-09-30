@@ -6,7 +6,7 @@ articles = []
 # Keys: {doi, title, authors, journal, pages, year, note}
 # All elements are strings
 # note is optional
-with open('articles.txt') as articles_file:
+with open("articles.txt", "r", encoding="utf-8") as articles_file:
     article = {}
     for line in articles_file:
         if line.isspace() or 'END ARTICLES' in line:
@@ -34,7 +34,7 @@ with open('articles.txt') as articles_file:
             print('Error while parsing articles.txt')
 
 new_articles_html = ''
-with open('../pubs/articles/index.html') as articles_html:
+with open('../pubs/articles/index.html', 'r', encoding='utf-8') as articles_html:
     in_list = False
     for line in articles_html:
         if '<!-- END ARTICLES -->' in line:
@@ -101,7 +101,7 @@ with open('../pubs/articles/index.html') as articles_html:
         if not in_list:
             new_articles_html += line
 
-with open('../pubs/articles/index.html', 'w') as articles_html:
+with open('../pubs/articles/index.html', 'w', encoding='utf-8') as articles_html:
     articles_html.write(new_articles_html)
 
 print('Articles updated successfully')
