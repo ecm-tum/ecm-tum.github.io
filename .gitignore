@@ -2,3 +2,5 @@
 .DS_Store
 people/.DS_Store
 research/.DS_Store
+/venv
+*.DS_Store
