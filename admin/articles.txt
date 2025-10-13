@@ -1,3 +1,10 @@
+in press
+Sustainable Functional Ceramics
+Steffen Weinmann, Lucie Quincke, Lisa Winkler, Jesse J. Hinricher, Fran Kurnia, Kun Joong Kim, Jennifer L.M. Rupp
+Nature Nanotechnology
+in press
+2025
+
 10.1038/s41467-025-63409-y
 Magnetic Microscopy for Operando Imaging of Battery Dynamics
 S. Pollok, M. Khoshkalam, F. Ghaffari-Tabrizi, F. Kurnia, D. Wang, S. Li, D. B. Bucher, J. L. M. Rupp, D. V. Christensen
@@ -28,9 +35,16 @@ in press
 
 10.1016/j.joule.2025.101871
 Process Cost Analysis of Performance Challenges and Their Mitigations in Sodium‐Ion Battery Cathode Materials
-M. Munjal, T. Prein, M. Ramadan, H. Smith, V. Venugopal, J. L.M. Rupp, I. I. Abate, E. A. Olivetti, K. J. Huang
+M. Munjal, T. Prein, M. Ramadan, H. Smith, V. Venugopal, J. L.M. Rupp, I. I. Abate, E. Olivetti, K. J. Huang
 Joule
 Volume 9, Issue 5
+2025
+
+in press
+Language Models Enable Data-Augmented Synthesis Planning for Inorganic Materials
+T. Prein, E. Pan, J. Jehkul, S. Weinmann, E. Olivetti, J. L.M. Rupp
+ACS Applied Materials & Interfaces
+in press
 2025
 
 10.1016/j.optlastec.2025.113118
