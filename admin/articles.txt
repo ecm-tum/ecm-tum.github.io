@@ -2,28 +2,28 @@
 Magnetic Microscopy for Operando Imaging of Battery Dynamics
 S. Pollok, M. Khoshkalam, F. Ghaffari-Tabrizi, F. Kurnia, D. Wang, S. Li, D. B. Bucher, J. L. M. Rupp, D. V. Christensen
 Nature Communications
-in press
+16, 8303
 2025
 
-in press 
-Coexistence of battery-type and pseudocapacitive intercalation mechanisms in lithium titanate electrodes
+10.1002/aenm.202503080
+Unveiling Coexisting Battery-Type and Pseudocapacitive Intercalation Mechanisms in Lithium Titanate
 L. Kong, P. J. Williams, F. Brushett, J. L.M. Rupp
 Advanced Energy Materials
-in press
+Volume 15, Issue 37
 2025
 
-in press 
+10.1002/aenm.202501494
 Covalent Organic Framework Bipolar Pseudocapacitive Electrodes in an All-Organic Symmetric Lithium-Ion Battery
 A. Singh, P. Bhauriyal, L. Quincke, D. Blätte, R. Guntermann, J. L.M. Rupp, T. Heine, T. Bein
 Advanced Energy Materials
-in press
+Volume 15, Issue 37
 2025
 
 10.1002/aenm.202502280
 Stabilizing interfaces of all-ceramic composite cathodes for Li-garnet batteries
 S. Weinmann, H. Gobena, L. Quincke, J. J. Hinricher, S. Merk, H. Chu, T. Prein, J. L.M. Rupp, K. J. Kim
 Advanced Energy Materials
-in press
+Volume 15, Issue 37
 2025
 
 10.1016/j.joule.2025.101871
@@ -44,7 +44,7 @@ Volume 189
 Pristine Interface between Lithium Lanthanum Zirconate and Lithium Manganese Oxide by Pulsed Laser Deposition
 I. D. Dyer, H. Vahidi, H. Paik, H. Gobena, B. N. Tafese, J. Sakamoto, J. Rupp, W. J. Bowman, S. M. Haile
 Advanced Materials Interfaces
-in press
+Volume 12, Issue 15
 2025
 
 10.1039/D4CS00214H
@@ -54,11 +54,11 @@ Chemical Society Reviews
 2025, 54, 178-200
 2025
 
-in press
+10.1039/D5CS00358J
 Emerging Processing Guidelines for Solid Electrolytes in the Era of Oxide-Based Solid-State Batteries
 M. Balaish, K. Kim, H. Chu, Y. Zhu, J. C. G. Rosillo, L. Kong, H. Paik, S. Weinmann, Z. Hood, J. Hinricher, L. Miara, J. L.M. Rupp
 Chemical Society Reviews
-in press
+2025, 54, 8925-9007
 2025
 
 10.1002/adma.202309253
