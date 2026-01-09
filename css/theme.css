@@ -6,7 +6,7 @@ html {
 .landing-container {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 90vh;
   margin-top: -50px;
 }
 
