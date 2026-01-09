@@ -186,3 +186,14 @@ a.ecm-primary:hover {
   background-color: rgba(0, 0, 0, 0.45);
 }
 
+@media (max-width: 768px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, 30vh);
+  }
+
+  .grid-item.large {
+    grid-column: auto;
+    grid-row: auto;
+  }
+}
