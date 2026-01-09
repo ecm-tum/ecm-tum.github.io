@@ -30,8 +30,8 @@
 
 
     <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
-      <a href=".." class="navbar-left"><img src="../logo.png" width="80" height="40" class="d-inline-block align-top" alt=""></a>
-      <a class="navbar-brand pl-2 mb-0 pb-0 mt-0 pt-0" href="..">
+      <a href="" class="navbar-left"><img src="./../logo.png" width="80" height="40" class="d-inline-block align-top"></a>
+      <a class="navbar-brand pl-2 mb-0 pb-0 mt-0 pt-0" href="">
         <div class="row p-0 pl-7 m-0 title-font">
           Electrochemical <br> Materials <br> Lab @ TUM
         </div>
@@ -41,36 +41,24 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav  ml-auto">
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" >
-              Research
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="../research/batteries">Solid State Li-Ion Batteries</a>
-              <a class="dropdown-item" href="../research/memristors">Memristors</a>
-              <a class="dropdown-item" href="../research/solarfuel">Solar Fuel Conversion</a>
-              <a class="dropdown-item" href="../research/sofcs">Solid Oxide Fuel Cells</a>
-              <a class="dropdown-item" href="../research/sensors">Solid State Gas Sensors</a>
-              <a class="dropdown-item" href="../research/redox-batteries/">Redox Flow Batteries</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="../research/expertise">Areas of Expertise</a>
-            </div>
+          <li class="nav-item active">
+            <a class="nav-link" href="../../research">Research</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" >
+            <a class="nav-link dropdown-toggle" id="pubsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" >
               Publications
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="../pubs/articles">Articles</a>
-              <a class="dropdown-item" href="../pubs/patents">Patents</a>
-              <a class="dropdown-item" href="../pubs/books">Book Chapters</a>
+            <div class="dropdown-menu" aria-labelledby="pubsDropdown">
+              <a class="dropdown-item" href="pubs/articles">Articles</a>
+              <a class="dropdown-item" href="pubs/patents">Patents</a>
+              <a class="dropdown-item" href="pubs/books">Book Chapters</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../people">People</a>
+            <a class="nav-link" href="people">People</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../news">News</a>
+            <a class="nav-link" href="news">News</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/wblvangebot.wbshowlvoffer?ppersonnr=365480&pGroup=W&pFilter=null%26f_4_1" target="_blank">Teaching <i class="fas fa-external-link-alt"></i></a>
@@ -80,24 +68,35 @@
               Opportunities
             </a>
             <div class="dropdown-menu" aria-labelledby="pubsDropdown">
-              <a class="dropdown-item" href="../opportunities/openings">Open Positions</a>
-              <a class="dropdown-item" href="../opportunities/lila">LILA-Materials Science <br> Mentoring Program</a>
+              <a class="dropdown-item" href="opportunities/openings">Open Positions</a>
+              <a class="dropdown-item" href="opportunities/lila">LILA-Materials Science <br> Mentoring Program</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="../gallery">Gallery</a>
+            <a class="nav-link" href="gallery">Gallery</a>
           </li>
         </ul>
       </div>
     </nav>
     
-    <main class="image-grid">
+    <main class="image-grid-7-full">
 
-      <div class="grid-item large" style="background-image: url('../carousel/batteries.jpg')">
+      <div class="grid-item" style="background-image: url('../carousel/batteries.jpg')">
           <div class="d-flex align-items-center justify-content-center h-100">
             <div class="bg-semitransparent text-white text-center p-3 rounded">
               <h3>Solid State Batteries</h3>
               <a class="btn btn-outline-ecm" href="research/batteries" role="button">
+                Learn More
+              </a>
+            </div>
+          </div>
+      </div>
+
+      <div class="grid-item" style="background-image: url('../carousel/black.jpg')">
+          <div class="d-flex align-items-center justify-content-center h-100">
+            <div class="bg-semitransparent text-white text-center p-3 rounded">
+              <h3>Proton conduction</h3>
+              <a class="btn btn-outline-ecm" href="research/proton_conduction" role="button">
                 Learn More
               </a>
             </div>
@@ -115,41 +114,90 @@
           </div>
       </div>
 
-      <div class="grid-item" style="background-image: url('../carousel/sensors.jpg')">
+      <div class="grid-item" style="background-image: url('../carousel/black.jpg')">
           <div class="d-flex align-items-center justify-content-center h-100">
             <div class="bg-semitransparent text-white text-center p-3 rounded">
-              <h3>NV-NMR</h3>
-              <a class="btn btn-outline-ecm" href="research/sensors" role="button">
+              <h3>Optoionics & solar batteries</h3>
+              <a class="btn btn-outline-ecm" href="research/optoionics" role="button">
                 Learn More
               </a>
             </div>
           </div>
       </div>
 
-      <div class="grid-item" style="background-image: url('../carousel/sofcs.jpg')">
+      <div class="grid-item" style="background-image: url('../carousel/black.jpg')">
           <div class="d-flex align-items-center justify-content-center h-100">
             <div class="bg-semitransparent text-white text-center p-3 rounded">
-              <h3>NV-NMR</h3>
-              <a class="btn btn-outline-ecm" href="research/sensors" role="button">
+              <h3>Battery recycling</h3>
+              <a class="btn btn-outline-ecm" href="research/battery_recycling" role="button">
                 Learn More
               </a>
             </div>
           </div>
       </div>
 
-      <div class="grid-item" style="background-image: url('../carousel/solar2fuel.jpg')">
+      <div class="grid-item" style="background-image: url('../carousel/black.jpg')">
           <div class="d-flex align-items-center justify-content-center h-100">
             <div class="bg-semitransparent text-white text-center p-3 rounded">
-              <h3>NV-NMR</h3>
-              <a class="btn btn-outline-ecm" href="research/sensors" role="button">
+              <h3>Oxygen pumping</h3>
+              <a class="btn btn-outline-ecm" href="research/oxygen_pumping" role="button">
                 Learn More
               </a>
             </div>
           </div>
+      </div>
+
+      <div class="grid-item" style="background-image: url('../carousel/memristors.jpg')">
+          <div class="d-flex align-items-center justify-content-center h-100">
+            <div class="bg-semitransparent text-white text-center p-3 rounded">
+              <h3>Memristors</h3>
+              <a class="btn btn-outline-ecm" href="research/memristors" role="button">
+                Learn More
+              </a>
+            </div>
+          </div>
+      </div>
+
+<!-- empty space -->
+      <div class="grid-item" style="background-image: url('../carousel/black.jpg')">
+          <div class="d-flex align-items-center justify-content-center h-100">
       </div>
 
     </main>
 
+
+    <div class="container-fluid p-3 pr-sm-5 pl-sm-5">
+      <h3 class="text-center pb-2 font-weight-bold">Areas of Expertise</h3>
+
+        <ul class="list">
+          <li class="list-item">Structure-property relations of functional oxides
+  </li>
+          <li class="list-item">Engineering of oxide-metal film interfaces, multi-layer thin film structures and strained films
+  </li>
+          <li class="list-item">Pulsed laser, sputter and wet-chemical deposition of thin films
+  </li>
+          <li class="list-item">Charge and mass transport
+  </li>
+          <li class="list-item">Electrochemistry on small and large scale systems
+  </li>
+          <li class="list-item">Design and microfabrication of electrochemical chip-sized functional devices
+  </li>
+          <li class="list-item">Memory testing
+  </li>
+          <li class="list-item">Battery and Fuel cell testing
+  </li>
+          <li class="list-item">Specialized in micro-electrode probing and testing of thin film structures
+  </li>
+          <li class="list-item">Cleanroom processing
+  </li>
+          <li class="list-item">New redox conversion oxides: e.g. solar-fuel conversion
+  </li>
+          <li class="list-item">Ceramic processing
+  </li>
+          <li class="list-item">Raman Microscopy
+  </li>
+        </ul>
+    </div>  
 
         <!-- Footer -->
     <footer class="container-fluid bg-dark p-3 pr-sm-5 pl-sm-5">

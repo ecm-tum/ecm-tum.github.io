@@ -167,6 +167,15 @@ a.ecm-primary:hover {
   gap: 0;
 }
 
+.image-grid-7-full {
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns */
+  grid-template-rows: repeat(2, 1fr);    /* 2 rows */
+  gap: 0;
+}
+
 
 /* Individual image tiles */
 .grid-item {
@@ -186,10 +195,11 @@ a.ecm-primary:hover {
   background-color: rgba(0, 0, 0, 0.45);
 }
 
+
 @media (max-width: 768px) {
-  .image-grid {
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(5, 30vh);
+  .image-grid-7-full {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
   }
 
   .grid-item.large {
@@ -197,3 +207,14 @@ a.ecm-primary:hover {
     grid-row: auto;
   }
 }
+
+@media (max-width: 480px) {
+  .image-grid-7-full {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(7, 1fr);
+  }
+}
+
+
+
+
