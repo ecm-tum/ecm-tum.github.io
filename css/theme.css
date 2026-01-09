@@ -195,7 +195,7 @@ a.ecm-primary:hover {
   background-color: rgba(0, 0, 0, 0.45);
 }
 
-
+/*
 @media (max-width: 768px) {
   .image-grid-7-full {
     grid-template-columns: repeat(2, 1fr);
@@ -214,7 +214,7 @@ a.ecm-primary:hover {
     grid-template-rows: repeat(7, 1fr);
   }
 }
-
+*/
 
 
 
