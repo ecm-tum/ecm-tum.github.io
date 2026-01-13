@@ -1,8 +1,16 @@
+NO DOI
 Tuning Redox Behavior of Pyrene–benzothiadiazole/TTF–based Covalent Organic Framework Electrodes in Dual-ion Batteries
-A. Singh, D. Blätte, R. Guntermann, L. Quincke, J. L. M. Rupp, T. Bein
+A. Singh, D. Blätte, R. Guntermann, L. Quincke, J. L.M. Rupp, T. Bein
 Angewandte Chemie
 in press
 2026
+
+10.21203/rs.3.rs-8091488/v1
+Electron-beam sintering achieves dual-phase transparent solid-state electrolytes for batteries
+K. Chen, Z. Jia, W. Xue, H. Shen, R. Ke, S. Yan, F. Shangguan, Z. Wang, J. Cui, Z. Wang, Y. Tian, W. H. Kan, C. Chiang, E. Ma, B. Han, J. L.M. Rupp, M. Doeff, W. Tang
+Nature Communications
+preprint available online
+2025
 
 10.1038/s41565-025-02076-y 
 Sustainable Functional Ceramics
@@ -13,7 +21,7 @@ published online
 
 10.1038/s41467-025-63409-y
 Magnetic Microscopy for Operando Imaging of Battery Dynamics
-S. Pollok, M. Khoshkalam, F. Ghaffari-Tabrizi, F. Kurnia, D. Wang, S. Li, D. B. Bucher, J. L. M. Rupp, D. V. Christensen
+S. Pollok, M. Khoshkalam, F. Ghaffari-Tabrizi, F. Kurnia, D. Wang, S. Li, D. B. Bucher, J. L.M. Rupp, D. V. Christensen
 Nature Communications
 16, 8303
 2025
