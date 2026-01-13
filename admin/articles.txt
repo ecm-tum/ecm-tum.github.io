@@ -54,11 +54,11 @@ Joule
 Volume 9, Issue 5
 2025
 
-10.48550/arXiv.2506.12557
+10.1021/acsami.5c11229
 Language Models Enable Data-Augmented Synthesis Planning for Inorganic Materials
 T. Prein, E. Pan, J. Jehkul, S. Weinmann, E. Olivetti, J. L.M. Rupp
 ACS Applied Materials & Interfaces
-in press
+Volume 17, Issue 51, 69221–69233
 2025
 
 10.1016/j.optlastec.2025.113118
