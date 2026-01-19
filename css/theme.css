@@ -218,5 +218,33 @@ a.ecm-primary:hover {
 }
 */
 
+.image-grid-6-full {
+  display: grid;
+  height: 100vh;                        /* full screen height */
+  width: 100vw;                         /* full width */
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-rows: repeat(2, 1fr);    /* 2 rows */
+  gap: 0;                                /* no spacing */
+  margin: 0;
+  padding: 0;
+}
+
+/* Tablets (<= 1024px) */
+@media (max-width: 1024px) {
+  .image-grid-6-full {
+    grid-template-columns: repeat(2, 1fr);  /* 2 columns */
+    grid-template-rows: repeat(3, 25vh);    /* 3 rows */
+    height: auto;                            /* allows scrolling */
+  }
+}
+
+/* Phones (<= 768px) */
+@media (max-width: 768px) {
+  .image-grid-6-full {
+    grid-template-columns: 1fr;              /* 1 column */
+    grid-template-rows: repeat(6, 20vh);     /* 6 stacked rows */
+    height: auto;
+  }
+}
 
 
