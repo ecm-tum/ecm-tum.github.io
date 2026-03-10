@@ -1,13 +1,13 @@
 NO DOI
 Charged Grain Boundaries Limiting Short-Circuit Endurance in Garnet Solid Electrolytes
-H. Chu, T. Defferriere, P. Nandi, W. Kaiser, L. M. Wolz, F. Kurnia, K. J. Kim, W. O’Leary, T. Altantzis, J. Verbeeck, D. A. Egger, S. Bals, J. Eichhorn, H. L. Tuller, and J. L. M. Rupp
+H. Chu, T. Defferriere, P. Nandi, W. Kaiser, L. M. Wolz, F. Kurnia, K. J. Kim, W. O’Leary, T. Altantzis, J. Verbeeck, D. A. Egger, S. Bals, J. Eichhorn, H. L. Tuller, and J. L.M. Rupp
 Nature Nanotechnology
 in press
 2026
 
 10.1039/D5TA09479H
 Scalable fabrication of all-ceramic composite cathodes via controlled lithium compensation for Li-garnet batteries
-S. Weinmann, M. Reis, M. Warnke, L. Quincke, A. Gruendl, J. L.M. Rupp, Jennifer L. M. K. J. Kim
+S. Weinmann, M. Reis, M. Warnke, L. Quincke, A. Gruendl, J. L.M. Rupp, K. J. Kim
 J. Mater. Chem. A
 Advanced Article
 2026
