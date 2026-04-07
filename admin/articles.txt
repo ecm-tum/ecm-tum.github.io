@@ -9,21 +9,21 @@ in press
 Scalable fabrication of all-ceramic composite cathodes via controlled lithium compensation for Li-garnet batteries
 S. Weinmann, M. Reis, M. Warnke, L. Quincke, A. Gruendl, J. L.M. Rupp, K. J. Kim
 J. Mater. Chem. A
-Advanced Article
+14, 10822
 2026
 
-NO DOI
+10.1002/aenm.202506213
 Roadmap for High-Throughput Ceramic Materials Synthesis and Discovery for Batteries
 J. J. Hinricher, K. P. Sokol, P. Simons, K. J. Kim, M. Foshey, Y. Tian, T. Prein, L. J. Miara,  E. Olivetti, W. Matusik, J. L.M. Rupp
 Advanced Energy Materials
-in press
+e06213
 2026
 
 10.1002/anie.202522720
 Tuning Redox Behavior of Pyrene–benzothiadiazole/TTF–based Covalent Organic Framework Electrodes in Dual-ion Batteries
 A. Singh, D. Blätte, R. Guntermann, L. Quincke, J. L.M. Rupp, T. Bein
 Angewandte Chemie
-e22720
+65, 12
 2026
 
 10.1038/s41565-025-02076-y 
