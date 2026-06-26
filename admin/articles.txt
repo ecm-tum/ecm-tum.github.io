@@ -1,3 +1,10 @@
+NO DOI
+A Proof-of-Concept Interdigitated 3D Lithium-Ion Battery Cell Architecture Using Patterned Carbon Nanotube Forests
+R. B. Church, M. Robinson, S. Sand, L. Kong, J. L.M. Rupp and A. J. Hart
+Journal of the Electrochemical Society
+in press
+2026
+
 10.1039/D6TA02188C
 The role of precursor decomposition in low-temperature solution-based synthesis and crystallization of Li-garnet solid electrolyte films
 L. Quincke, G. Anand, F. N. Sayeed, C. P. Grey, B. A.J. Lechner and J. L.M. Rupp
