@@ -10,7 +10,7 @@ A recent Süddeutsche Zeitung feature takes a close look at the fast‑moving wo
 
 Celebrating the successful PhD Defense of Dr. Jesse Hinricher
 January 12, 2026
-<img src="defense_jesse.jpeg" style="width: 440px; float:right; margin-left:15px">
+<img src="defense_jesse_v2.jpg" style="width: 440px; float:right; margin-left:15px">
 We are delighted to congratulate Jesse Hinricher on the successful defense of his doctoral dissertation, "Lithium Garnet Development and Advances for Use in Next-Generation Solid-State Batteries" completed on 12.01.2026. <br>Under the guidance of Prof. Jennifer Rupp (TUM) and Prof. Harry Tuller (MIT), Jesse Hinricher conducted an impressive body of research on, among other projects, a machine learning based approach of developing and improving solid electrolyte materials, demonstrating dedication, scientific creativity, and perseverance throughout his PhD project. <br>Jesse's work offers a clear and well‑developed contribution to ongoing research and development of materials for next generation batteries. <br>Please join us in celebrating Dr. Jesse Hinricher on this outstanding milestone. We are excited to see how he continues to grow in his career and wish him all the best going forward.
 
 Sustainability of Functional Ceramics
