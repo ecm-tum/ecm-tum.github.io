@@ -1,3 +1,7 @@
+New Publication in Nature Nanotechnology sheds Light on Solid-state Battery Failure
+July 6, 2026
+Why do solid-state batteries still struggle with short circuits? Researchers from our team have taken a major step toward answering this question. In collaboration with MIT and international partners, they discovered that tiny charged regions at grain boundaries inside garnet electrolytes act as weak spots, hindering ion transport and triggering lithium buildup. By engineering these interfaces through targeted processing and materials design, they achieved a more than threefold increase in the electrolyte’s critical current density. The findings open up new opportunities for developing safer, faster-charging, and more durable solid-state batteries. Read the publication here: <a href="https://www.nature.com/articles/s41565-026-02206-0" target="_blank">Charged grain boundaries limit short-circuit endurance in garnet solid-state battery electrolytes</a>
+
 Lucie won the Electrochemical Society Early Career Award!
 June 1, 2026
 <img src="Lucie_ECS_award2026.jpg", style="width: 440px; float:right; margin-left:15px">
