@@ -1,3 +1,10 @@
+10.1021/acsaem.6c01097
+Solid-State Battery Interface Engineering through Sintering Additives for Li-Garnet Electrolyte and Composite Cathode
+S. Weinmann, J. Schäfer, M. Reis, N. Isaev, J. L.M. Rupp, K. J. Kim
+ACS Appl. Energy Mater.
+in press, available online
+2026
+
 10.1038/s41565-026-02206-0
 Charged Grain Boundaries Limiting Short-Circuit Endurance in Garnet Solid Electrolytes
 H. Chu, T. Defferriere, P. Nandi, W. Kaiser, L. M. Wolz, F. Kurnia, K. J. Kim, W. O’Leary, T. Altantzis, J. Verbeeck, D. A. Egger, S. Bals, J. Eichhorn, H. L. Tuller, and J. L.M. Rupp
