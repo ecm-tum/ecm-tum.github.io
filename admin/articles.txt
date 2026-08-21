@@ -1,14 +1,14 @@
-10.1021/acsaem.6c01097
-Solid-State Battery Interface Engineering through Sintering Additives for Li-Garnet Electrolyte and Composite Cathode
-S. Weinmann, J. Schäfer, M. Reis, N. Isaev, J. L.M. Rupp, K. J. Kim
-ACS Appl. Energy Mater.
-in press, available online
-2026
-
 10.1038/s41565-026-02206-0
 Charged Grain Boundaries Limiting Short-Circuit Endurance in Garnet Solid Electrolytes
 H. Chu, T. Defferriere, P. Nandi, W. Kaiser, L. M. Wolz, F. Kurnia, K. J. Kim, W. O’Leary, T. Altantzis, J. Verbeeck, D. A. Egger, S. Bals, J. Eichhorn, H. L. Tuller, and J. L.M. Rupp
 Nature Nanotechnology
+21, 1174-1183
+2026
+
+10.1039/d6ee03852b
+Solubility-guided interlayer design toward balanced lithium metal plating and stripping in garnet solid-state batteries 
+H. Chu, C. Lerch, S. Chong, L. Schulz, T. Fuchs, K. J. Kim, M. Balaish, H. L. Tuller, J. Janek, J. L.M. Rupp
+Energy & Environmental Science
 in press, available online
 2026
 
@@ -16,7 +16,7 @@ in press, available online
 Roadmap for High-Throughput Ceramic Materials Synthesis and Discovery for Batteries
 J. J. Hinricher, K. P. Sokol, P. Simons, K. J. Kim, M. Foshey, Y. Tian, T. Prein, L. J. Miara,  E. Olivetti, W. Matusik, J. L.M. Rupp
 Advanced Energy Materials
-e06213
+16, 19: e06213
 2026
 
 10.1002/anie.202522720
@@ -30,7 +30,7 @@ Angewandte Chemie
 The role of precursor decomposition in low-temperature solution-based synthesis and crystallization of Li-garnet solid electrolyte films
 L. Quincke, G. Anand, F. N. Sayeed, C. P. Grey, B. A.J. Lechner and J. L.M. Rupp
 J. Mater. Chem. A
-in press, available online
+14, 38
 2026
 
 10.1039/D5TA09479H
@@ -40,7 +40,14 @@ J. Mater. Chem. A
 14, 10822
 2026
 
-NO DOI
+10.1021/acsaem.6c01097
+Solid-State Battery Interface Engineering through Sintering Additives for Li-Garnet Electrolyte and Composite Cathode
+S. Weinmann, J. Schäfer, M. Reis, N. Isaev, J. L.M. Rupp, K. J. Kim
+ACS Appl. Energy Mater.
+9, 15: 9790-9798
+2026
+
+10.1149/1945-7111/ae81f3
 A Proof-of-Concept Interdigitated 3D Lithium-Ion Battery Cell Architecture Using Patterned Carbon Nanotube Forests
 R. B. Church, M. Robinson, S. Sand, L. Kong, J. L.M. Rupp and A. J. Hart
 Journal of the Electrochemical Society

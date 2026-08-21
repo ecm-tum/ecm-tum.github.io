@@ -14,3 +14,12 @@ IMAGE: path_to_image2
 Links can be added into any body using standard HTML (<a href=...>blahblah</a). The image lines are optional. Image paths should be relative to news/index.html. Be sure to separate news stories by a single empty line! 
 
 To update the site's pages with the new info, run the update_news.py script (requires Python 3). This will update the home page as well as the news page.
+
+
+Nature Nanotechnology
+Energy & Environmental Science
+Advanced Energy Materials
+Angewandte Chemie 
+Journal of Materials Chemistry A
+ACS Applied Energy
+Journal of the Electrochemical Society
