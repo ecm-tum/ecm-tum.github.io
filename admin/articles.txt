@@ -42,6 +42,13 @@ J. Mater. Chem. A
 14, 38
 2026
 
+10.48550/arXiv.2608.04690
+Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations
+T. Miyagawa, W. O’Leary, M. Grumet, H. Chu, J. L.M. Rupp, W. Kaiser, D. A. Egger
+arXiv
+2608.04690
+2026
+
 10.1039/D5TA09479H
 Scalable fabrication of all-ceramic composite cathodes via controlled lithium compensation for Li-garnet batteries
 S. Weinmann, M. Reis, M. Warnke, L. Quincke, A. Gruendl, J. L.M. Rupp, K. J. Kim
